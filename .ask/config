@@ -1,7 +1,7 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "",
+      "skill_id": "__ALEXA_SKILL_ID__",
       "was_cloned": false
     }
   }
